@@ -26,6 +26,12 @@ npm install
    npm run dev
    ```
 
+## Technologies Used
+
+React Vite
+Tailwind css
+Iconsax
+
 ## Production URL
 
 Find the deployed staging application at [Styled Calculator](https://styled-calculator.vercel.app/). You can explore, contribute, and make this project even better!
